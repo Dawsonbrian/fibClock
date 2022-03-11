@@ -1,7 +1,5 @@
     // This project is protected under the Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
     // Attribute this work to  https://github.com/pchretien/fibo
-
-    // Test
     
     // Date and time functions using a DS1307 RTC connected via I2C and Wire lib
     #include <Wire.h>
